@@ -1,0 +1,36 @@
+{
+    "payments": [
+        {
+            "user": 1,
+            "course": 1,
+            "lesson": null,
+            "payment_amount": 1200.50,
+            "payment_method": "card",
+            "data": "2023-10-01T10:00:00Z"
+        },
+        {
+            "user": 1,
+            "course": null,
+            "lesson": 1,
+            "payment_amount": 600.00,
+            "payment_method": "cash",
+            "data": "2023-10-02T11:30:00Z"
+        },
+        {
+            "user": 1,
+            "course": null,
+            "lesson": 1,
+            "payment_amount": 650.00,
+            "payment_method": "card",
+            "data": "2023-10-03T09:15:00Z"
+        },
+        {
+            "user": 1,
+            "course": 1,
+            "lesson": null,
+            "payment_amount": 1150.00,
+            "payment_method": "cash",
+            "data": "2023-10-04T13:45:00Z"
+        }
+    ]
+}

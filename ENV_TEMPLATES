@@ -1,0 +1,9 @@
+SECRET_KEY=your_django_secret_key
+DEBUG=your_debug_status
+
+NAME=your_database_name
+USER_NAME=your_database_host
+PASSWORD=you_password
+HOST=you_host
+PORT=you_port
+
